@@ -1,0 +1,7 @@
+{
+  "name": "attester-contrib-requirejs",
+  "version": "0.1.0",
+  "dependencies": {
+    "requirejs": "~2.1.8"
+  }
+}
