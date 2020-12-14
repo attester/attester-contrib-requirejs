@@ -1,7 +1,7 @@
 {
   "name": "attester-contrib-requirejs",
   "version": "0.1.0",
-  "author": "ariatemplates <contact@ariatemplates.com> (http://github.com/ariatemplates)",
+  "author": "ariatemplates <ariatemplates@amadeus.com> (http://github.com/ariatemplates)",
   "description": "Use RequireJS inside attester",
   "repository": {
     "type": "git",
